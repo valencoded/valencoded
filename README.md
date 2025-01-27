@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👩‍💻 Valentina | Software Engineer  
 
-<!--
-**valencoded/valencoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m Valentina, a passionate software engineer eager to create innovative solutions through technology. This GitHub showcases my journey, projects, and experiments in programming and problem-solving.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🌱 Currently learning **Operating Systems**, **Web development**
+- 💡 Interested in **machine learning**, **cybersecurity**, **competitive programming** and real-world tech solutions.  
+- 🎯 Goal: Contribute to open-source and develop impactful tools.  
+- ⚡ Fun fact: I love learning and reading!  
+
+---
+
+## 🛠️ Skills & Tools  
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+## ✨ Featured Projects  
+
+- **🌡️ Smart Coffee Dispenser:** An ESP32-powered system with sensors, LEDs, and real-time monitoring.  
+  [🔗 View Repository](#)  
+
+
+---
+
+## 🌍 Connect with Me  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/valentinacastropineda/)  
+- 💌 [Email](mailto:vali150410@gmail.com)  
+
+---
+
+⭐ **Thanks for visiting my GitHub! Let’s connect and create something amazing together.** 😊
