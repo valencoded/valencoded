@@ -6,7 +6,7 @@ Hi there! I’m Valentina, a passionate software engineer eager to create innova
 
 ## 🚀 About Me  
 
-- 🌱 Currently learning **Operating Systems**, **Web development**
+- 🌱 Currently learning **Operating Systems**, **Web development**, **Machine Learning**
 - 💡 Interested in **machine learning**, **cybersecurity**, **competitive programming** and real-world tech solutions.  
 - 🎯 Goal: Contribute to open-source and develop impactful tools.  
 - ⚡ Fun fact: I love learning and reading!  
